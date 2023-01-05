@@ -5,3 +5,5 @@ intents:
       - sentences:
           - "<setzen> [<area>] die Temperatur auf <temperature>"
           - "<setzen> die Temperatur (von | vom) <name> auf <temperature>"
+          - "<setzen> die Heizung [<area>] auf <temperatue>"
+          - "heize [<area>] auf <temperature>"
